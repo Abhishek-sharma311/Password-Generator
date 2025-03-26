@@ -1,4 +1,4 @@
-let inputSlider = document.getElementById("inputSlider");
+let inputSlider = document.getElementById inputSlider");
 let sliderValue = document.getElementById("sliderValue");
 let passBox = document.getElementById("passBox");
 let lowercase = document.getElementById("lowercase");
